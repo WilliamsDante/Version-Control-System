@@ -42,3 +42,5 @@ The `git add` command is used to stage the changes you want to include to your l
 ### Git Push
 
 After committing, the changes are still only available on your local repository. To make them accessible to others, you need to push the changes to a remote repository using the `git push` command.
+
+![git push](./img/06.%20Git%20Push.png)
